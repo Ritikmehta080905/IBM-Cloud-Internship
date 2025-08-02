@@ -16,8 +16,10 @@ An intelligent assistant that helps researchers:
 
  📄 Repository Contents  
 /docs
-├── Project PPT
+├── Project IBM Internship PPT
 ├── Literature instruction.pdf
+├── Paper 2.pdf
+├── paper 5.pdf
 ├── IBM Certificates
 ├── Instructions Provided to Agent and Problem Statement PDF
 
@@ -31,4 +33,4 @@ An intelligent assistant that helps researchers:
 - IBM-certified deployment  
 - All sensitive data encrypted  
 - Compliant with educational data standard
-- 
+  
