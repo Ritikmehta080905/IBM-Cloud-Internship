@@ -26,3 +26,24 @@ cd IBM-Cloud-Internship
 echo "REPLICATE_API_TOKEN=your_token" > .env
 pip install gradio langchain-milvus replicate
 python research_assistant.py
+
+🌟 Key Features
+Answers research questions using IBM Granite LLM
+
+Retrieves relevant papers with Milvus
+
+Formats responses with:
+✓ Summaries
+✓ Key findings
+✓ Pros/Cons
+
+🛠️ Tech Stack
+AI: IBM Granite-3.3B
+
+Database: Milvus Vector DB
+
+Framework: LangChain
+
+Interface: Gradio
+
+
